@@ -1,0 +1,130 @@
+{
+  "name": "MOHAMED BAKUKY",
+  "bio": "Design Engineer & UX/UI  |#BuildingInPubic **PhotoHive** | **GitHub** Star",
+  "tags": [
+    "UX/UI",
+    "Javascript",
+    "Typescript",
+    "ReactJS",
+    "Figma",
+    "Postman APIs"
+  ],
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/mohamedbakuly" },
+    { "icon": "FaGithub", "url": "https://github.com/MOHAMEDBAKULY" },
+    { "icon": "FaLinkedin", "url": "https://www.linkedin.com/in/mohamed-rashid-khamis-053b66199" }
+  ],
+  "links": [
+    {
+      "name": "Building PhotoHive Platform",
+      "url": "",
+      "icon": "FaLink"
+    },
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/MOHAMEDBAKULY",
+      "icon": "FaGithub",
+      "color": "#171515"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/mohamedbakuly",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    },
+    {
+      "name": "Follow My UX?UI Journey on Instagram",
+      "url": "https://www.instagram.com/mohamed.bakuly",
+      "icon": "FaInstagram",
+      "color": "#FF0000"
+    },
+    {
+      "name": "See my Design On Behance",
+      "url": "https://www.behance.net/bakulybakulain",
+      "icon": "FaBehance"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/mohamed-rashid-khamis-053b66199",
+      "icon": "FaLinkedin"
+    },
+  ],
+  "milestones": [
+    {
+      "title": "Started UX/UI design",
+      "date": "June 2023",
+      "icon": "SiCoursera",
+      "description": "Learning UX/UI design",
+      "url": "https://coursera.org/share/ab6b17f80b4ea6f31e02d47ed2ca5971"
+    },
+    {
+      "title": "Google IT specialization",
+      "date": "April 2022",
+      "icon": "SiCoursera",
+      "description": "Google IT Support",
+      "url": "https://coursera.org/share/e0d354c0ca0f5711507896ed3b6bc3ab"
+    },
+    {
+      "title": "GitHub Star of the Year",
+      "date": "2020",
+      "icon": "FaGithub",
+      "description": "Won GitHub Star of the Year out of 55+ million people",
+      "url": "https://github.com/eddiejaoude"
+    },
+  ],
+  "Events" : [
+    {
+  "isVirtual": false,
+  "isInPerson": true,
+  "name": "Google Developers Group Nairobi",
+  "description": "GDG DevFest Nairobi  (described by many as 'Google I/O of Africa'), brings together people who are shaping the future of Android, Web, IoT - Robotics, AI and Cloud technologies for days of sessions, workshops and networking.",
+  "date": {
+    "start": "2023-11-09T04:00:00.000+00:00",
+    "end": "2023-11-09T04:00:00.000+00:00",
+    "cfpClose": "2022-10-09T17:00:00.000+00:00"
+  },
+  "url": "https://gdg.community.dev/events/details/google-gdg-nairobi-presents-gdg-devfest-nairobi-2023",
+  "price": {
+    "startingFrom": 0
+  },
+  "location": {
+    "road": "Shree Sthanakvasi Jain Bhavan,Road",
+    "city": "Nairobi",
+    "state": "Loresho",
+    "country": "Kenya"
+  },
+  "userStatus": "Attending",
+  "speakingTopic": "Web Development"
+},
+      {
+  "isVirtual": false,
+  "isInPerson": true,
+  "name": "DroidCon Kenya",
+  "description": "This 4th in-person event will include several tech communities from the East African Region and continental members. Participants will have an excellent chance to learn about Android development and opportunities and to network with Android experts in the ecosystem.",
+  "date": {
+    "start": "2023-11-09T08:00:00.000+00:00",
+    "end": "2023-11-09T10:00:00.000+00:00",
+    "cfpClose": "2022-10-09T17:00:00.000+00:00"
+  },
+  "url": "https://droidcon.co.ke",
+  "price": {
+    "startingFrom": "1500KES"
+  },
+  "location": {
+    "road": "Day Star University",
+    "city": "Nairobi",
+    "state": "hurlingham",
+    "country": "Kenya"
+  },
+  "userStatus": "Attending",
+  "speakingTopic": "Mobile Development"
+},
+  ],
+  "testimonials" [
+    {
+  "title": "Founder of an Amazing Community",
+  "description": "Mohamed Bakuly"
+  "date": "2023-26-11"
+},
+  ]
+}
